@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376988642576",
+    "project_id": "syed-contacts-app",
+    "storage_bucket": "syed-contacts-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376988642576:android:8f24764a40b9fc472f8995",
+        "android_client_info": {
+          "package_name": "com.vorksoltask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376988642576-5t3d98phr03n9carv1v575bdia06t0n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vorksoltask",
+            "certificate_hash": "4b43d3a1644eb77b19f0bc9531e15937bbc91ce1"
+          }
+        },
+        {
+          "client_id": "376988642576-uq712j9mp269dodgn6j8ffso45oic1so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2WI7t8bVFktnzDT71TCsAnIMEQNmJ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376988642576-uq712j9mp269dodgn6j8ffso45oic1so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
